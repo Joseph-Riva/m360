@@ -1,0 +1,6 @@
+name: py38
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+prefix: /home/jriva/anaconda3/envs/py38
