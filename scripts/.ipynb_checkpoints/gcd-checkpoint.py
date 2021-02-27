@@ -6,7 +6,7 @@
 # In[1]:
 
 
-def gcd(a,b, log=True):
+def gcd(a,b, log=False):
     if log:
         print(f'gcd({a},{b})-> {b}={b//a}*{a} + {b%a}')
     if a > b:
