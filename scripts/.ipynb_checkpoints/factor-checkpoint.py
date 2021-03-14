@@ -3,7 +3,6 @@
 
 # In[9]:
 
-
 # found from https://paulrohan.medium.com/prime-factorization-of-a-number-in-python-and-why-we-check-upto-the-square-root-of-the-number-111de56541f
 def prime_factors(number):
     def add_factor(factors, factor):
